@@ -1,7 +1,7 @@
 # **Calendar Calculator**
 Inspired by Unix ```cal``` utility
 
-This Calendar Calculator is a simple (to use not make) C++ program that prints the calendar for a specified year. The program displays each month of the year with the correct number of days and the appropriate formatting for the days of the week.
+This Calendar Calculator is a simple (to use, not make) C++ program that prints the calendar for a specified year. The program displays each month of the year with the correct number of days and the appropriate formatting for the days of the week.
 ## **Features**
 
 * Prints the full calendar for any given year.
