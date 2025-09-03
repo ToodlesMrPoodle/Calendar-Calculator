@@ -13,7 +13,7 @@ This Calendar Calculator is a simple (to use, not make) C++ program that prints 
 * Nicely formatted output for easy readability.
 ## **Getting Started**
 ### **Prerequisites**
-* Any C++ compiler (eg., [GCC](gcc.gnu.org), [Clang](clang.llvm.org), or [MSVS](visualstudio.microsoft.com))
+* Any C++ compiler (eg., [GCC](https://gcc.gnu.org/), [Clang](https://clang.llvm.org/), or [MSVS](https://visualstudio.microsoft.com/))
 ### **Installation**
 1. Use the following command in your terminal or command prompt:
 
